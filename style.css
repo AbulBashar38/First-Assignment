@@ -6,30 +6,33 @@ h1{
 p{
     font-size: 25px;
     font-family: 'Sriracha', cursive;
-    text-align: center;
+    
     color: rgb(0, 6, 26);
 }
 .name-color{
-    color: rgb(15, 161, 51);
-}
-.link-modify1{
-    text-decoration: none;
-    color: teal;
+    color: rgb(15, 161, 51);}
 
+.link-modify{
+    
+        text-decoration: none;
+        color: teal;
+
+}
+.second-section{
+    border: red solid 10px;
 }
 .first-div{
     width: 30%;
     float: left;
     margin: 2% 5%;
     padding: 2%;
-}
-.first-div img{
-    width: 100%;
-    margin-left: 30%;
-    align-items: center;
-}
-.link-modify2{
-    text-decoration: none;
-    color: tomato;
-    text-align: left;
-}
+border: solid red 10px;}
+    
+    .first-div img{
+        width: 100%;
+        margin-left: 30%;}
+        .first-section{
+            
+            height: 600px;
+        }
+       
