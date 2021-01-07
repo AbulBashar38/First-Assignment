@@ -135,3 +135,34 @@ h4{
 #WI2{
     color: white;
 }
+.mail-box{
+    background-image: linear-gradient(rgb(248, 183, 139), rgba(255, 110, 66, 0.836));
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    font-family: 'Sriracha', cursive;
+    
+}
+.icon-img{
+    margin-left: 580px;
+    margin-top: 2%;
+}
+.last-section{
+    
+    position: relative;
+    height: 400px;
+bottom: 100px;}
+#SC{
+    text-align: center;
+}
+
+#mail{
+    margin-left: 570px;
+
+}
+.icon-img img{
+    height: 90px;
+    margin-left: 10px;
+}
